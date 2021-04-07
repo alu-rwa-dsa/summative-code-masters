@@ -43,7 +43,8 @@ This assignment has class testing codes for our project game (SUDOKU). Each clas
 
 MOTIVATION: 
 
-Sudoku is a fundamentally boring process that can be done using a computer program using basic rules. The fact that Sudoku is still one of the most successful puzzle games in the world, and that most people who play it don't realize it's a challenge that can be represented with an algorithm, demonstrates how simple it is to confuse action with productivity, and should serve as a wake-up call to all of us to consider what facets of our job actually entail conditioning ourselves to obey a series of well-defined rules with increasing performance.
+Sudoku is a fundamentally boring process that can be done using a computer program using basic rules. The fact that Sudoku is still one of the most successful puzzle games in the world, and that most people who play it don't realize it's a challenge that can be represented with an algorithm, demonstrates how simple it is to confuse action with productivity, and should serve as a wake-up call to all of us to consider what facets of our job actually entail conditioning ourselves to obey a series of well-defined rules with increasing performance. 
+The world is changing and we want to prove that with technology we can solve logic-based games just by using lines of code in python. This would therefore save time and find more suitable solutions.
 Sudoku can be very complicated, particularly if the puzzle has to be generated based on the complexity, which will necessitate the use of Las Vegas as well as a high degree of genericization! The AI component is easy, but depending on your implementation and data structure, it can be complicated.  This is why here we’ve decided to use Arrays to solve our sudoku game instead of matrix which would be more difficult to use when it comes to define the grids. (Array Data Structure - GeeksforGeeks, 2021)
 
 
