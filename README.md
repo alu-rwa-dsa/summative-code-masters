@@ -3,7 +3,7 @@
 
 
 
-PROJECT TITLE: Sudoku Game
+<h1> PROJECT TITLE: Sudoku Game </h1>
 
 
 
