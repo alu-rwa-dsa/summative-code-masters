@@ -4,9 +4,10 @@
 
 
 <h2> TEAM MEMBERS: </h2>
-<ul>Marthely Nguimeya
+
+<h2> Marthely Nguimeya
 Lucky John Mbikeshimana
-Irene Mutamuliza</ul>
+Irene Mutamuliza </h2>
 
 <h2> DATA STRUCTURE ALGORITHM USED  : Arrays  </h2>
 
