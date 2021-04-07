@@ -7,12 +7,12 @@
 
 
 
-TEAM MEMBERS: 
+<h2> TEAM MEMBERS: </h2>
 Marthely Nguimeya,  Lucky John Mbikeshimana, Irene Mutamuliza
 
-DATA STRUCTURE ALGORITHM USED : Arrays
+<h2> DATA STRUCTURE ALGORITHM USED  : Arrays </h2>
 
-PROJECT DESCRIPTION: 
+<blockquotes> <h2> PROJECT DESCRIPTION: </h2>
 
 
 Sudoku is a logic-based, combinatorial number-placement puzzle
@@ -39,6 +39,8 @@ This assignment has class testing codes for our project game (SUDOKU). Each clas
  Any row contains more than one of the same number in the range
  Whichever column contains more than one of the same number in the range
  Any 2×2 grid contains more than one of the same number from the same range
+ 
+ </blockquotes>
 
 
 MOTIVATION: 
