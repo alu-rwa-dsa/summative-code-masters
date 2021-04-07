@@ -10,9 +10,9 @@
 <h2> TEAM MEMBERS: </h2>
 Marthely Nguimeya,  Lucky John Mbikeshimana, Irene Mutamuliza
 
-<h2> DATA STRUCTURE ALGORITHM USED  : Arrays </h2>
+<h2> DATA STRUCTURE ALGORITHM USED  : </h2> Arrays 
 
-<blockquotes> <h2> PROJECT DESCRIPTION: </h2>
+<blockquote> <h2> PROJECT DESCRIPTION: </h2>
 
 
 Sudoku is a logic-based, combinatorial number-placement puzzle
@@ -40,18 +40,19 @@ This assignment has class testing codes for our project game (SUDOKU). Each clas
  Whichever column contains more than one of the same number in the range
  Any 2×2 grid contains more than one of the same number from the same range
  
- </blockquotes>
+ </blockquote>
 
 
-MOTIVATION: 
+<blockquote> MOTIVATION: 
 
 Sudoku is a fundamentally boring process that can be done using a computer program using basic rules. The fact that Sudoku is still one of the most successful puzzle games in the world, and that most people who play it don't realize it's a challenge that can be represented with an algorithm, demonstrates how simple it is to confuse action with productivity, and should serve as a wake-up call to all of us to consider what facets of our job actually entail conditioning ourselves to obey a series of well-defined rules with increasing performance. 
 The world is changing and we want to prove that with technology we can solve logic-based games just by using lines of code in python. This would therefore save time and find more suitable solutions using python.
-Sudoku can be very complicated, particularly if the puzzle has to be generated based on the complexity, which will necessitate the use of Las Vegas as well as a high degree of genericization! The AI component is easy, but depending on your implementation and data structure, it can be complicated.  This is why here we’ve decided to use Arrays to solve our sudoku game instead of matrix which would be more difficult to use when it comes to define the grids. (Array Data Structure - GeeksforGeeks, 2021)
+Sudoku can be very complicated, particularly if the puzzle has to be generated based on the complexity, which will necessitate the use of Las Vegas as well as a high degree of genericization! The AI component is easy, but depending on your implementation and data structure, it can be complicated.  This is why here we’ve decided to use Arrays to solve our sudoku game instead of matrix which would be more difficult to use when it comes to define the grids. (Array Data Structure - GeeksforGeeks, 2021) </blockquote>
 
 
-REFERENCES
+<blockquote> REFERENCES
 
 Tutorialspoint.com. 2021. Data Structures and Algorithms - Arrays - Tutorialspoint. [online] Available at: <https://www.tutorialspoint.com/data_structures_algorithms/array_data_structure.htm#:~:text=Array%20is%20a%20container%20which,arrays%20to%20implement%20their%20algorithms.&text=Index%20%E2%88%92%20Each%20location%20of%20an,used%20to%20identify%20the%20element.> [Accessed 7 April 2021].
 
 GeeksforGeeks. 2021. Array Data Structure - GeeksforGeeks. [online] Available at: <https://www.geeksforgeeks.org/array-data-structure/> [Accessed 7 April 2021].
+</blockquote>
