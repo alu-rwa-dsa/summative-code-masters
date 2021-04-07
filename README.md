@@ -5,7 +5,7 @@
 
 <h2> TEAM MEMBERS: </h2>
 
-<h2> Marthely Nguimeya
+<ul><h2> Marthely Nguimeya</ul>
 Lucky John Mbikeshimana
 Irene Mutamuliza </h2>
 
