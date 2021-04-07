@@ -10,7 +10,7 @@ PROJECT TITLE: Sudoku Game
 TEAM MEMBERS: 
 Marthely Nguimeya,  Lucky John Mbikeshimana, Irene Mutamuliza
 
-
+DATA STRUCTURE ALGORITHM USED : Arrays
 
 PROJECT DESCRIPTION: 
 
