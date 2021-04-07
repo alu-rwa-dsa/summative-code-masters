@@ -1,7 +1,3 @@
-# summative-code-masters
-
-
-
 
 <h1> PROJECT TITLE: Sudoku Game </h1>
 
