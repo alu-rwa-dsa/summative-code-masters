@@ -41,6 +41,18 @@ This assignment has class testing codes for our project game (SUDOKU). Each clas
  Any 2×2 grid contains more than one of the same number from the same range
  
  </blockquote>
+ 
+ <blockquote> <h2> HOW TO RUN THE GAME </h2> <br>
+ 
+ * You first need to have Pycharm installed on your PC
+ * Make sure you also have python installed in your pc by typing "python" in the command prompt
+ * Import the modules mentioned above in your pycharm
+ * Download this project on your PC
+ * Open the project with pycharm
+ * Open any class and run the project
+ * YOU CAN PLAY! GOOD LUCK!
+
+ </blockquote>
 
 
 <blockquote> <h2> MOTIVATION: </h2> <br>
